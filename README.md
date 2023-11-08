@@ -1,3 +1,9 @@
+<h1>Ready SCSS</h1>
+<h3>Command on terminal for run this project on http://localhost:5173 </h3>
+
+### `npm run dev`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
