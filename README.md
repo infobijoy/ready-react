@@ -1,5 +1,10 @@
 <h1>Ready React</h1>
 <h3>Command on terminal for run this project on http://localhost:3000/ </h3>
+1st command
+
+### `npm install`
+
+2nd command
 
 ### `npm start`
 
